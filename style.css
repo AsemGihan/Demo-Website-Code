@@ -1,0 +1,51 @@
+/*  font-family: 'Italianno', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif; 
+*/
+
+/* Reset & Common Code Strats Here */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+    font-weight: 400;
+    outline: 0;
+}
+html{
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+    background-color: #fafafa;
+}
+/* Reset & Common Code Ends Here */
+
+
+
+/* Responsive Starts Here */
+
+/* For Small Device (Mobile) */
+@media(max-width: 768px){
+    
+}
+
+
+
+
+
+/* For Medium Device (Tablet)*/
+@media(min-width: 768px){
+    
+}
+
+
+
+
+
+
+/* For Large Device(Laptop) */
+@media(min-width: 992px){
+    
+}
+
+/* Responsive Ends Here */
